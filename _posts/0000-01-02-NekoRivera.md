@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"He's starting to believe" -Obabo
 Use the left arrow to go back!
